@@ -2,9 +2,8 @@ Hi 👋, I'm Gass
 
 I am a junior web developer, based in France
 
-Here are some ideas to get you started:
-
 - 📁 I’m currently working on my API Rest and App React.js DUMP, it's my project.
+
 - 💻 I’m currently learning API Rest, React.js, Node.js.
 
 Links
