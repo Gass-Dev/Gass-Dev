@@ -6,6 +6,7 @@ I am a junior web developer, based in France
 
 - 💻 I’m currently learning API Rest, React.js, Node.js.
 
+
 Links
 
 LinkedIn: /gwenaelle-fouquet
