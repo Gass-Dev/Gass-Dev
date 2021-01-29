@@ -1,10 +1,10 @@
-Hi 👋, I'm Gass
+Hi 👋, I'm Gass ( Gwenaelle)
 
-I am a junior web developer, based in France
+I am a junior web developer, based in Paris
 
 - 📁 I’m currently working on my API Rest and App React.js DUMP his my end-of-training project.
 
-- 💻 I’m currently learning API Rest, React.js, Node.js and Google Cloud Platform.
+- 💻 I’m currently learning API Rest, React.js, Node.js.
 
 
 
