@@ -1,16 +1,18 @@
 Hi 👋, I'm Gass ( Gwenaelle)
 
-I am a junior web developer, based in Paris
+I'm a junior web developer, based in Paris.
+I'm on a work-study programme in Application Design and Development. I'm looking for a company for a position of Web Developer Js.
 
-- 📁 I’m currently working on my API Rest and App React.js DUMP his my end-of-training project.
 
-- 💻 I’m currently learning API Rest, React.js, Node.js.
+💻 My stacks : API Rest, Javascript, ReactJs, NodeJs.
 
+During my training, I will work with ReactJs, Electron, Typescript. I would also like to see the basics of Python.
 
 
 Links : 
 
 LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
+
 CV/Portfolio: https://madebygass.com/
 
 
