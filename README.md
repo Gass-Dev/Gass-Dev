@@ -8,9 +8,10 @@ I am a junior web developer, based in Paris
 
 
 
-Links
+Links : 
 
-LinkedIn: /gwenaelle-fouquet
+LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
+CV/Portfolio: https://madebygass.com/
 
 
 <!--
