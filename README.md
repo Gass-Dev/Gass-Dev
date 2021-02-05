@@ -6,7 +6,7 @@ I'm on a work-study programme in Application Design and Development. I'm looking
 
 💻 My stacks : API Rest, Javascript, ReactJs, NodeJs.
 
-During my training, I will work with ReactJs, Electron and Typescript. I would also like to see the basics of Python.
+During my training, I will work with ReactJs, Electron and Typescript.
 
 
 Links : 
