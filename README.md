@@ -6,14 +6,14 @@ I'm on a work-study programme in Application Design and Development. I'm looking
 
 💻 My stacks : API Rest, Javascript, ReactJs, NodeJs.
 
-During my training, I will work with ReactJs, Electron and Typescript.
+During my training, I will work with ReactNative, Electron, Typescript, Python and VueJs.
 
 
 Links : 
 
 LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
 
-CV/Portfolio: https://madebygass.com/
+//CV/Portfolio: https://madebygass.com/ -> off
 
 
 <!--
