@@ -2,7 +2,7 @@ Hi 👋, I'm Gass (Gwenaelle)
 
 I am a junior web developer, based in Paris. I'm doing a work-study in application design and development. I also do freelance in Digital Product Designer.
 
-💻 My stacks : API Rest, Javascript, ReactJs, NodeJs, Python, VueJs, Typescript.
+💻 My stacks : API Rest, Javascript, ReactJs, NodeJs, Typescript.
 
 During my training, I will be working with ReactNative, Electron.
 
@@ -11,7 +11,6 @@ Links :
 
 LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
 
-//CV/Portfolio: https://madebygass.com/ -> off
 
 
 <!--
