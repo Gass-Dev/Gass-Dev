@@ -7,7 +7,6 @@ I am a junior web developer, based in Paris. I'm doing a work-study in applicati
 During my training, I will be working with ReactNative, Electron.
 
 
-Links : 
 
 LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
 
