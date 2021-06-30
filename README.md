@@ -4,7 +4,7 @@ I am a junior web developer, based in Paris. I'm doing a work-study in applicati
 
 💻 My stacks : API Rest, Javascript, ReactJs, NodeJs, Typescript.
 
-During my training, I will be working with ReactNative, Electron.
+During my training, I will be working with ReactNative, Electron, Strapi.
 
 
 
