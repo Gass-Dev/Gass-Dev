@@ -1,6 +1,6 @@
 Hi 👋, I'm Gass (Gwenaëlle)
 
-I am a junior web developer, based in Paris. I'm doing a work-study in application design and development. I also do freelance in Digital Product Designer since 2019.
+I am a UX/UI Designer + Baby Web Developer, based in Paris. I'm doing a work-study in application design and development. I also do freelance in Digital Product Designer since 2019.
 
 💻 My stacks : API Rest, Javascript, ReactJs, NextJs, AngularJs, NodeJs, Strapi.
 
