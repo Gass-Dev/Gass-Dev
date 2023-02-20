@@ -1,4 +1,4 @@
-Hi 👋, I'm Gass (Gwenaëlle)
+Hi 👋, I'm Gass
 
 I am a UX/UI Designer + Baby Web Developer, based in Paris. I'm doing a work-study in application design and development. I also do freelance in Digital Product Designer since 2019.
 
