@@ -6,6 +6,8 @@ I am a UX/UI Designer + Baby Web Developer, based in Paris. I'm doing a work-stu
 
 🧰 My tools : Visual Studio Code, Postman, Figma, Illustrator, Indesign, Photoshop, Notion
 
+🎴 My hobbies: Art, Tufting rug, Tattoo 
+
 
 LinkedIn: https://www.linkedin.com/in/gwenaelle-fouquet/
 
